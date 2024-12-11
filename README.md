@@ -16,7 +16,7 @@ Name: RDP_PASSWORD
 Example Value: (you insert here the password that you will use for connect via RDP)
 ```
 
-All of those secrets are required for the script to work, if you forget to add one, then it will throw an error
+All of those secrets are required for the .script to work, if you forget to add one, then it will throw an error
 
 4) Trigger an build, by editing this README or uploading anything to your repository, don't modify the contents of the resources or scripts folders
 
